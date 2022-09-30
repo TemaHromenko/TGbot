@@ -13,7 +13,7 @@ import time
 import datetime
 
 
-TOKEN = '5717932005:AAFoSsgn4L3SsbdFp27tRvOoImx56chtFDY'
+TOKEN = 'BOT_Token/токен Вашего бота'
 loop = asyncio.get_event_loop()
 bot = Bot(TOKEN, parse_mode='html')
 storage = MemoryStorage()  
